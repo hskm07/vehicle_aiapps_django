@@ -1,8 +1,0 @@
-*.pyc
-*~
-__pycache__
-db.sqlite3
-/static
-.DS_Store
-vehicle/ml_models/__pre_vgg16_transfer.h5
-vehicle/ml_models/vgg16_transfer.h5
